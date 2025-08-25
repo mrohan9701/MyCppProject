@@ -1,0 +1,1 @@
+g++ -o aebpro ../VtdFramework/VtdToolkit/src/Common/RDBHandler.cc AEB_PRO.cpp  -I../VtdFramework/VtdToolkit/include
